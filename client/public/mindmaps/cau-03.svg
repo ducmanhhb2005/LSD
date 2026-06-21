@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1220" viewBox="0 0 1800 1220">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#f0fdf4"/>
+  </linearGradient>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+    <feDropShadow dx="0" dy="10" stdDeviation="10" flood-color="#0f172a" flood-opacity="0.16"/>
+  </filter>
+</defs>
+<rect width="1800" height="1220" fill="url(#bg)"/>
+<rect x="35" y="35" width="1730" height="1150" rx="36" fill="none" stroke="#22c55e" stroke-width="5" opacity="0.55"/>
+
+<text x="900" y="78" font-family="Arial, sans-serif" font-size="34" font-weight="900" fill="#166534" text-anchor="middle">SƠ ĐỒ TƯ DUY - CÂU 3</text>
+<text x="900" y="120.0" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#334155" text-anchor="middle">Câu 3. Cương lĩnh chính trị tháng 2/1930 và điểm khác với Luận</text>
+<text x="900" y="150.0" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#334155" text-anchor="middle">cương chính trị tháng 10/1930</text>
+<ellipse cx="900" cy="600" rx="285" ry="145" fill="#ffffff" stroke="#22c55e" stroke-width="6" filter="url(#shadow)"/>
+<text x="900" y="538" font-family="Arial, sans-serif" font-size="36" font-weight="900" fill="#166534" text-anchor="middle">Câu 3</text>
+<text x="900" y="572" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#334155" text-anchor="middle">Nắm chắc nội dung Cương lĩnh đầu</text>
+<text x="900" y="606" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#334155" text-anchor="middle">tiên và so sánh trọng tâm dân tộc -</text>
+<text x="900" y="640" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#334155" text-anchor="middle">giai cấp</text>
+<path d="M 900 600 C 612.5 600, 612.5 280.0, 325.0 280.0" stroke="#22c55e" stroke-width="5" fill="none" opacity="0.45"/>
+<path d="M 900 600 C 900.0 600, 900.0 225.0, 900.0 225.0" stroke="#22c55e" stroke-width="5" fill="none" opacity="0.45"/>
+<path d="M 900 600 C 1187.5 600, 1187.5 280.0, 1475.0 280.0" stroke="#22c55e" stroke-width="5" fill="none" opacity="0.45"/>
+<path d="M 900 600 C 1187.5 600, 1187.5 900.0, 1475.0 900.0" stroke="#22c55e" stroke-width="5" fill="none" opacity="0.45"/>
+<path d="M 900 600 C 900.0 600, 900.0 985.0, 900.0 985.0" stroke="#22c55e" stroke-width="5" fill="none" opacity="0.45"/>
+<path d="M 900 600 C 612.5 600, 612.5 900.0, 325.0 900.0" stroke="#22c55e" stroke-width="5" fill="none" opacity="0.45"/>
+<rect x="90" y="140" width="470" height="280" rx="26" fill="#f0fdf4" stroke="#22c55e" stroke-width="4" filter="url(#shadow)"/>
+<circle cx="124" cy="174" r="20" fill="#22c55e"/>
+<text x="124" y="182" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="158" y="174.0" font-family="Arial, sans-serif" font-size="25" font-weight="800" fill="#166534" text-anchor="start">Cương lĩnh 2/1930</text>
+<text x="124" y="210" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#1e293b">• Tư sản dân quyền + thổ địa</text>
+<text x="124" y="237" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#1e293b">• Độc lập dân tộc</text>
+<text x="124" y="264" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#1e293b">• Đi tới xã hội cộng sản</text>
+<rect x="665" y="85" width="470" height="280" rx="26" fill="#f0fdf4" stroke="#22c55e" stroke-width="4" filter="url(#shadow)"/>
+<circle cx="699" cy="119" r="20" fill="#22c55e"/>
+<text x="699" y="127" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="733" y="119.0" font-family="Arial, sans-serif" font-size="25" font-weight="800" fill="#166534" text-anchor="start">Nhiệm vụ</text>
+<text x="699" y="155" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#1e293b">• Đánh đổ đế quốc Pháp</text>
+<text x="699" y="182" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#1e293b">• Đánh đổ phong kiến</text>
+<text x="699" y="209" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#1e293b">• Việt Nam độc lập</text>
+<rect x="1240" y="140" width="470" height="280" rx="26" fill="#f0fdf4" stroke="#22c55e" stroke-width="4" filter="url(#shadow)"/>
+<circle cx="1274" cy="174" r="20" fill="#22c55e"/>
+<text x="1274" y="182" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="1308" y="174.0" font-family="Arial, sans-serif" font-size="25" font-weight="800" fill="#166534" text-anchor="start">Lực lượng</text>
+<text x="1274" y="210" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#1e293b">• Công - nông là gốc</text>
+<text x="1274" y="237" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#1e293b">• Tranh thủ tiểu tư sản, trí</text>
+<text x="1274" y="264" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#1e293b">thức</text>
+<text x="1274" y="291" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#1e293b">• Sách lược rộng rãi</text>
+<rect x="1240" y="760" width="470" height="280" rx="26" fill="#f0fdf4" stroke="#22c55e" stroke-width="4" filter="url(#shadow)"/>
+<circle cx="1274" cy="794" r="20" fill="#22c55e"/>
+<text x="1274" y="802" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="1308" y="794.0" font-family="Arial, sans-serif" font-size="25" font-weight="800" fill="#166534" text-anchor="start">Luận cương 10/1930</text>
+<text x="1274" y="830" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#1e293b">• CM tư sản dân quyền</text>
+<text x="1274" y="857" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#1e293b">• Thổ địa là cái cốt</text>
+<text x="1274" y="884" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#1e293b">• Nhấn mạnh công - nông</text>
+<rect x="665" y="845" width="470" height="280" rx="26" fill="#f0fdf4" stroke="#22c55e" stroke-width="4" filter="url(#shadow)"/>
+<circle cx="699" cy="879" r="20" fill="#22c55e"/>
+<text x="699" y="887" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
+<text x="733" y="879.0" font-family="Arial, sans-serif" font-size="25" font-weight="800" fill="#166534" text-anchor="start">Khác nhau</text>
+<text x="699" y="915" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#1e293b">• Cương: dân tộc hàng đầu</text>
+<text x="699" y="942" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#1e293b">• Luận: giai cấp/ruộng đất nổi</text>
+<text x="699" y="969" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#1e293b">bật</text>
+<text x="699" y="996" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#1e293b">• Cương rộng, Luận hẹp hơn</text>
+<rect x="90" y="760" width="470" height="280" rx="26" fill="#f0fdf4" stroke="#22c55e" stroke-width="4" filter="url(#shadow)"/>
+<circle cx="124" cy="794" r="20" fill="#22c55e"/>
+<text x="124" y="802" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">6</text>
+<text x="158" y="794.0" font-family="Arial, sans-serif" font-size="25" font-weight="800" fill="#166534" text-anchor="start">Mẹo nhớ</text>
+<text x="124" y="830" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#1e293b">• Cương = Cờ dân tộc</text>
+<text x="124" y="857" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#1e293b">• Luận = Lăng kính giai cấp</text>
+<text x="124" y="884" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#1e293b">• So sánh: nhiệm vụ + lực lượng</text>
+<rect x="130" y="1140" width="1540" height="50" rx="25" fill="#ffffff" stroke="#22c55e" stroke-width="3" opacity="0.9"/>
+<text x="900" y="1173.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#166534" text-anchor="middle">Mẹo nhớ: Cương lĩnh = Cờ dân tộc rộng; Luận cương = Lăng kính giai cấp hẹp hơn.</text>
+</svg>

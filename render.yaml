@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: lsd-on-thi-api
+    env: node
+    rootDir: server
+    plan: free
+    buildCommand: npm install && npx prisma generate && npx prisma db push && npm run seed
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: DATABASE_URL
+        value: file:./dev.db
+      - key: CLIENT_ORIGIN
+        value: https://YOUR_VERCEL_DOMAIN.vercel.app

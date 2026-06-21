@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1220" viewBox="0 0 1800 1220">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#fff7ed"/>
+  </linearGradient>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+    <feDropShadow dx="0" dy="10" stdDeviation="10" flood-color="#0f172a" flood-opacity="0.16"/>
+  </filter>
+</defs>
+<rect width="1800" height="1220" fill="url(#bg)"/>
+<rect x="35" y="35" width="1730" height="1150" rx="36" fill="none" stroke="#fb923c" stroke-width="5" opacity="0.55"/>
+
+<text x="900" y="78" font-family="Arial, sans-serif" font-size="34" font-weight="900" fill="#9a3412" text-anchor="middle">SƠ ĐỒ TƯ DUY - CÂU 1</text>
+<text x="900" y="120.0" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#334155" text-anchor="middle">Câu 1. Nguyên nhân thất bại của các phong trào yêu nước cuối</text>
+<text x="900" y="150.0" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#334155" text-anchor="middle">thế kỷ XIX - đầu thế kỷ XX</text>
+<ellipse cx="900" cy="600" rx="285" ry="145" fill="#ffffff" stroke="#fb923c" stroke-width="6" filter="url(#shadow)"/>
+<text x="900" y="538" font-family="Arial, sans-serif" font-size="36" font-weight="900" fill="#9a3412" text-anchor="middle">Câu 1</text>
+<text x="900" y="572" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#334155" text-anchor="middle">Từ khuynh hướng phong kiến, dân chủ</text>
+<text x="900" y="606" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#334155" text-anchor="middle">tư sản đến yêu cầu tìm con đường</text>
+<text x="900" y="640" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#334155" text-anchor="middle">cứu nước mới</text>
+<path d="M 900 600 C 612.5 600, 612.5 280.0, 325.0 280.0" stroke="#fb923c" stroke-width="5" fill="none" opacity="0.45"/>
+<path d="M 900 600 C 900.0 600, 900.0 225.0, 900.0 225.0" stroke="#fb923c" stroke-width="5" fill="none" opacity="0.45"/>
+<path d="M 900 600 C 1187.5 600, 1187.5 280.0, 1475.0 280.0" stroke="#fb923c" stroke-width="5" fill="none" opacity="0.45"/>
+<path d="M 900 600 C 1187.5 600, 1187.5 900.0, 1475.0 900.0" stroke="#fb923c" stroke-width="5" fill="none" opacity="0.45"/>
+<path d="M 900 600 C 900.0 600, 900.0 985.0, 900.0 985.0" stroke="#fb923c" stroke-width="5" fill="none" opacity="0.45"/>
+<path d="M 900 600 C 612.5 600, 612.5 900.0, 325.0 900.0" stroke="#fb923c" stroke-width="5" fill="none" opacity="0.45"/>
+<rect x="90" y="140" width="470" height="280" rx="26" fill="#fff7ed" stroke="#fb923c" stroke-width="4" filter="url(#shadow)"/>
+<circle cx="124" cy="174" r="20" fill="#fb923c"/>
+<text x="124" y="182" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="158" y="174.0" font-family="Arial, sans-serif" font-size="25" font-weight="800" fill="#9a3412" text-anchor="start">Bối cảnh</text>
+<text x="124" y="210" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#1e293b">• Pháp xâm lược</text>
+<text x="124" y="237" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#1e293b">• Xã hội thuộc địa nửa phong</text>
+<text x="124" y="264" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#1e293b">kiến</text>
+<text x="124" y="291" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#1e293b">• Mâu thuẫn dân tộc gay gắt</text>
+<rect x="665" y="85" width="470" height="280" rx="26" fill="#fff7ed" stroke="#fb923c" stroke-width="4" filter="url(#shadow)"/>
+<circle cx="699" cy="119" r="20" fill="#fb923c"/>
+<text x="699" y="127" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="733" y="119.0" font-family="Arial, sans-serif" font-size="25" font-weight="800" fill="#9a3412" text-anchor="start">Phong trào tiêu biểu</text>
+<text x="699" y="155" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#1e293b">• Cần Vương</text>
+<text x="699" y="182" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#1e293b">• Yên Thế</text>
+<text x="699" y="209" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#1e293b">• Đông Du - Duy Tân</text>
+<text x="699" y="236" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#1e293b">• Đông Kinh Nghĩa Thục</text>
+<rect x="1240" y="140" width="470" height="280" rx="26" fill="#fff7ed" stroke="#fb923c" stroke-width="4" filter="url(#shadow)"/>
+<circle cx="1274" cy="174" r="20" fill="#fb923c"/>
+<text x="1274" y="182" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="1308" y="174.0" font-family="Arial, sans-serif" font-size="25" font-weight="800" fill="#9a3412" text-anchor="start">Khách quan</text>
+<text x="1274" y="210" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#1e293b">• Pháp mạnh hơn</text>
+<text x="1274" y="237" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#1e293b">• Triều đình suy yếu</text>
+<text x="1274" y="264" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#1e293b">• Thời đại đòi hỏi đường lối</text>
+<text x="1274" y="291" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#1e293b">mới</text>
+<rect x="1240" y="760" width="470" height="280" rx="26" fill="#fff7ed" stroke="#fb923c" stroke-width="4" filter="url(#shadow)"/>
+<circle cx="1274" cy="794" r="20" fill="#fb923c"/>
+<text x="1274" y="802" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="1308" y="794.0" font-family="Arial, sans-serif" font-size="25" font-weight="800" fill="#9a3412" text-anchor="start">Chủ quan</text>
+<text x="1274" y="830" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#1e293b">• Thiếu đường lối đúng</text>
+<text x="1274" y="857" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#1e293b">• Thiếu tổ chức thống nhất</text>
+<text x="1274" y="884" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#1e293b">• Phương pháp hạn chế</text>
+<rect x="665" y="845" width="470" height="280" rx="26" fill="#fff7ed" stroke="#fb923c" stroke-width="4" filter="url(#shadow)"/>
+<circle cx="699" cy="879" r="20" fill="#fb923c"/>
+<text x="699" y="887" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
+<text x="733" y="879.0" font-family="Arial, sans-serif" font-size="25" font-weight="800" fill="#9a3412" text-anchor="start">Bài học</text>
+<text x="699" y="915" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#1e293b">• Cần chính đảng lãnh đạo</text>
+<text x="699" y="942" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#1e293b">• Cần tập hợp quần chúng</text>
+<text x="699" y="969" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#1e293b">• Cần con đường cách mạng khoa</text>
+<text x="699" y="996" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#1e293b">học</text>
+<rect x="90" y="760" width="470" height="280" rx="26" fill="#fff7ed" stroke="#fb923c" stroke-width="4" filter="url(#shadow)"/>
+<circle cx="124" cy="794" r="20" fill="#fb923c"/>
+<text x="124" y="802" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">6</text>
+<text x="158" y="794.0" font-family="Arial, sans-serif" font-size="25" font-weight="800" fill="#9a3412" text-anchor="start">Mẹo nhớ</text>
+<text x="124" y="830" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#1e293b">• Đ-L-T-P-D</text>
+<text x="124" y="857" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#1e293b">• Đường lối - Lãnh đạo</text>
+<text x="124" y="884" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#1e293b">• Tổ chức - Phương pháp - Dân</text>
+<rect x="130" y="1140" width="1540" height="50" rx="25" fill="#ffffff" stroke="#fb923c" stroke-width="3" opacity="0.9"/>
+<text x="900" y="1173.0" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#9a3412" text-anchor="middle">Mẹo nhớ: Đ-L-T-P-D = Đường lối chưa đúng, Lãnh đạo chưa đủ tầm, Tổ chức rời rạc, Phương pháp hạn chế, Dân chưa được tập</text>
+<text x="900" y="1199.2" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#9a3412" text-anchor="middle">hợp rộng rãi.</text>
+</svg>

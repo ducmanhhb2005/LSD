@@ -1,0 +1,36 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Topic {
+  id             Int      @id @default(autoincrement())
+  number         Int      @unique
+  slug           String   @unique
+  title          String
+  subtitle       String
+  overview       String
+  mnemonic       String
+  mindmapUrl     String
+  sectionsJson   String
+  keyPointsJson  String
+  quizzes        Quiz[]
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+}
+
+model Quiz {
+  id           Int      @id @default(autoincrement())
+  topicId      Int
+  topic        Topic    @relation(fields: [topicId], references: [id], onDelete: Cascade)
+  prompt       String
+  optionsJson  String
+  correctIndex Int
+  explanation  String
+  difficulty   String   @default("Cơ bản")
+  createdAt    DateTime @default(now())
+}
